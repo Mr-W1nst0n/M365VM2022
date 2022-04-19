@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Mr-W1nst0n/M365VM2022/master/M365VM2022Banner.jpg">
 
-## Session Topics 🥷
+## Session Topics 🥷🤖
 - Basic Concepts of PowerShell DSC
 - M365DSC Toolkit
 - Azure Automation DSC
