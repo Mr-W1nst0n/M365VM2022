@@ -4,7 +4,7 @@
 
 ## Session Topics 🥷🤖
 - Basic Concepts of PowerShell DSC
-- M365DSC Toolkit
 - Azure Automation DSC
 - Azure Policy Guest Configuration
+- M365DSC Toolkit
 - CI/CD Integration with AzureDevOps
